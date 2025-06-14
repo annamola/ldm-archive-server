@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'ldm-archive-server-wandering-snowflake-8118'
+app = 'ldm-archive-server'
 primary_region = 'atl'
 
 [build]
